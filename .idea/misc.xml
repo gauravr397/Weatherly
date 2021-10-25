@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Weatherly/app/src/main/res/drawable/gradient_bg.xml" value="0.4078125" />
-        <entry key="..\:/Weatherly/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Weatherly/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4078125" />
+        <entry key="..\:/Weatherly/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
