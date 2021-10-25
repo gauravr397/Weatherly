@@ -12,7 +12,7 @@
 # Demo App
 
 <p align="center">
-  <a href="https://github.com/gauravr397/NewsShort/releases/download/v1.0/NewsShort.apk">
+  <a href="https://github.com/gauravr397/Weatherly/releases/download/v1.0/Weatherly.apk">
     <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="80">
   </a>
 </p>
